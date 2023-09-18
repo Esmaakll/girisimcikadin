@@ -1,0 +1,15 @@
+#navbar{
+    flex-direction: column;
+    padding: 0.5rem;
+    padding-bottom: 0.5rem ;
+    overflow: hidden;
+    height: 120px;
+}
+
+#faaliyetler .items{
+    flex-direction: column;
+}
+#faaliyetler .items .item{
+ width:100%;
+}
+
